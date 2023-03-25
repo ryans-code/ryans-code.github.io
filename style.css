@@ -1,12 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Play:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Play:wght@700&family=Ubuntu&display=swap');
-
-    /* background-color: rgb(20, 20, 20);
-    color: rgb(90, 243, 184); */
 
 body {
     color: whitesmoke;
-    /* background-color: rgb(17,17,25); */
     background-image: url(images/midgar.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -22,10 +17,6 @@ a, a:visited {
 a:hover, span:hover {
     background-color:rgb(65, 92, 92);
 }
-
-/* li {
-    list-style: none;
-} */
 
 .navbar {
     background-color: rgb(20, 20, 20);
@@ -263,8 +254,7 @@ a:hover, span:hover {
 }
 
 .ff7-img {
-    width: 70em;
-    display: block;
+    width: 89%;
     margin-left: 3%;
 }
 
@@ -299,30 +289,20 @@ a:hover, span:hover {
     margin-right: 9%;
 }
 
-/* .col-img {
-    object-fit: contain;
-} */
-
 .sf4-img {
-    width: 70em;
+    width: 89%;
     margin-left: 3%;
 }
 
 .diablo3-img {
-    width: 70em;
+    width: 89%;
     margin-left: 3%;
 }
 
 .nioh-img {
-    width: 70em;
+    width: 89%;
     margin-left: 3%;
 }
-
-/* h2 {
-    display: flex;
-    justify-content: center;
-    color: rgb(90, 243, 184);
-} */
 
 .green-hr {
     background-color: rgb(90, 243, 184);
